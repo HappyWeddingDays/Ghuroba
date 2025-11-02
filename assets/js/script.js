@@ -29,14 +29,14 @@
             },
             2: {
                 title: {
-                    en: "EcoStore",
-                    id: "Toko Eco"
+                    en: "Wedding Invitation Website",
+                    id: "Website Undangan Pernikahan"
                 },
                 description: {
                     en: "An e-commerce platform for sustainable products with advanced filtering and payment integration. The platform features a responsive design, secure checkout process, and admin dashboard for inventory management.",
                     id: "Platform e-niaga untuk produk berkelanjutan dengan penyaringan lanjutan dan integrasi pembayaran. Platform ini menampilkan desain responsif, proses checkout yang aman, dan dasbor admin untuk manajemen inventaris."
                 },
-                image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+                image: "media/proyek1.jpg",
                 technologies: ["Vue.js", "Laravel", "MySQL", "Stripe API", "Redis"],
                 liveLink: "#",
                 codeLink: "#"
